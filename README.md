@@ -1,13 +1,16 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzODI2NjgsIm5iZiI6MTczMzM4MjM2OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDA3MDYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmMjZlZDkwNDk3ZmI5MDMxOTQ2MGRjOWEwMWZhOWQwZDU0MzhhNzdiNTc2MzJmMzQ4OTQ2MDIzNGUwZmQzZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dcgER0WlDISZo_jeq0j_Z_ggUYiVhrI-UEnetIAyOvM)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Quoc Anh</h1>
 <h3 align="center">React Frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qanh171002&label=Profile%20views&color=0e75b6&style=flat" alt="qanh171002" /> </p>
 
 - 🌱 I’m currently learning **React, Next, Tailwind**
 
 - 📫 How to reach me **maiquocanh1710@gmail.com**
+
+- 💬 Ask Me About: Frontend development, JavaScript, and UI/UX design
 
 <p align="left">
 </p>

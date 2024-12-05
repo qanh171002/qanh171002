@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Quoc Anh</h1>
-<h3 align="center">React Frontend developer from VietNam</h3>
+<h3 align="center">React Frontend Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif">
 

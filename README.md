@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qanh171002&label=Profile%20views&color=0e75b6&style=flat" alt="qanh171002" /> </p>
 
-- 🌱 I’m currently learning **React, Next, Tailwind**
+- 🌱 I’m currently learning **ReactJS, NextJS, TailwindCSS**
 
 - 📫 How to reach me **maiquocanh1710@gmail.com**
 

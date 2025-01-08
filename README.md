@@ -26,3 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=qanh171002&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 100%; max-width: 100%; height: auto;" />
 </div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qanh171002&theme=react&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 100%; height: auto;" />
+</div>
+
+
